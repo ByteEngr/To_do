@@ -5,7 +5,7 @@ This project demonstrates **CI/CD**, **Docker containerization**, **infrastructu
 
 ---
 
-## 🚀 Features
+## Features
 
 - Full-stack Todo app:
   - Backend: Node.js + Express + MongoDB
@@ -18,7 +18,7 @@ This project demonstrates **CI/CD**, **Docker containerization**, **infrastructu
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer        | Technology                          |
 |-------------|------------------------------------|
@@ -32,7 +32,7 @@ This project demonstrates **CI/CD**, **Docker containerization**, **infrastructu
 
 ---
 
-## 📦 Project Structure
+## Project Structure
 ```
 .
 ├── app.js
@@ -51,7 +51,7 @@ This project demonstrates **CI/CD**, **Docker containerization**, **infrastructu
 
 ---
 
-## ⚡ Prerequisites
+## Prerequisites
 
 - [Docker](https://www.docker.com/get-started)  
 - [Docker Compose](https://docs.docker.com/compose/install/)  
@@ -59,7 +59,7 @@ This project demonstrates **CI/CD**, **Docker containerization**, **infrastructu
 
 ---
 
-## 🏗 Setup & Run Locally
+## Setup & Run Locally
 
 1. Clone the repository:
 
