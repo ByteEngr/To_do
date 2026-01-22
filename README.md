@@ -1,6 +1,7 @@
 # DevOps Todo App
 
 A simple **Todo Web Application** with a complete **DevOps pipeline**.  
+
 This project demonstrates **CI/CD**, **Docker containerization**, **infrastructure as code**, and **monitoring**, all in one open-source project.
 
 ---
@@ -38,7 +39,7 @@ This project demonstrates **CI/CD**, **Docker containerization**, **infrastructu
 ├── app.js
 ├── backend
 │   └── frontend
-│       └── Docjerfile
+│       └── Dockerfile
 ├── ci-cd
 │   └── github-actions.yaml
 ├── Dockerfile
